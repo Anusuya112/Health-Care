@@ -1,0 +1,6 @@
+{
+  "name": "SmartCare Hospital",
+  "description": "Professional Smart Hospital Patient Assistance, Indoor Navigation & ESP8266 IoT Emergency Response System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
